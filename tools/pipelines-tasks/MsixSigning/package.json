@@ -1,13 +1,13 @@
 {
-  "name": "msix-tasks-signing",
+  "name": "msix-tasks-signing-iaawg",
   "version": "1.0.0",
-  "description": "Task to sign MSIX packages",
+  "description": "Task to sign MSIX packages (iAAWG version)",
   "repository": {
     "type": "git",
     "url": "git+github.com/microsoft/msix-ado-tasks-extension.git"
   },
   "scripts": {},
-  "author": "Microsoft Coporation",
+  "author": "iAAWG (originally Microsoft Coporation)",
   "license": "MIT",
   "dependencies": {
     "azure-devops-node-api": "^10.2.2",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
-  "id": "501a9528-7fa4-4cb5-b8da-79ded62b74eb",
+  "id": "52a9889d-59c1-4e41-a538-a215b39d19ab",
   "name": "MsixSigning",
   "friendlyName": "ms-resource:loc.friendlyName",
   "instanceNameFormat": "ms-resource:loc.instanceNameFormat",

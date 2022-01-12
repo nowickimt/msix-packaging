@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
-  "id": "e8789f65-a0e2-472b-98ca-8cfd83ccc3c3",
+  "id": "fe95ec07-8fbe-4b75-acd9-652885020b31",
   "name": "MsixPackaging",
   "friendlyName": "MSIX build and package",
   "instanceNameFormat": "MSIX build and package",

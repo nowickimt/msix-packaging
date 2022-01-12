@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
-  "id": "5acdf104-665e-4e06-a565-9f0a88e7de2b",
+  "id": "3a3ee7bd-0c45-412c-8b3c-cfc451c6d6d5",
   "name": "MsixAppAttach",
   "friendlyName": "Create package for MSIX app attach",
   "instanceNameFormat": "Create package for MSIX app attach",

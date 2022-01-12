@@ -1,15 +1,15 @@
 {
   "manifestVersion":  1,
-  "id": "msix-ci-automation-task",
-  "name":  "MSIX Packaging",
+  "id": "msix-ci-automation-task-iaawg",
+  "name":  "MSIX Packaging (iAAWG version)",
   "version":  "1.0.0",
-  "publisher":  "MSIX",
+  "publisher":  "iAAWG",
   "targets":  [
     {
       "id":  "Microsoft.VisualStudio.Services"
     }
   ],
-  "description":  "Tasks to automate the CI process of a MSIX application.",
+  "description":  "Tasks to automate the CI process of a MSIX application, modified for iAAWG purposes.",
   "categories":  [
     "Azure Pipelines"
   ],
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "uri": "https://github.com/microsoft/msix-packaging"
+    "uri": "https://github.com/nowickimt/msix-packaging"
   },
   "files":  [
     {

@@ -1,13 +1,13 @@
 {
-  "name": "msix-tasks-packaging",
+  "name": "msix-tasks-packaging-iaawg",
   "version": "1.0.0",
-  "description": "Task for building and packaging MSIX apps",
+  "description": "Task for building and packaging MSIX apps (iAAWG version)",
   "repository": {
     "type": "git",
     "url": "git+github.com/microsoft/msix-ado-tasks-extension.git"
   },
   "scripts": {},
-  "author": "Microsoft Coporation",
+  "author": "iAAWG (originally Microsoft Coporation)",
   "license": "MIT",
   "dependencies": {
     "azure-devops-node-api": "^10.2.2",

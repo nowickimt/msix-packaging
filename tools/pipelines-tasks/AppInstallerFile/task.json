@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Microsoft/azure-pipelines-task-lib/master/tasks.schema.json",
-  "id": "ced3bc79-ea98-4c51-8a83-ed4e3a0a77ed",
+  "id": "af723e7e-53aa-467f-986a-8f6e802c9424",
   "name": "AppInstallerFile",
   "friendlyName": "App Installer file for MSIX",
   "instanceNameFormat": "Create App Installer file",
