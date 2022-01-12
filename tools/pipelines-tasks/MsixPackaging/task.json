@@ -75,15 +75,11 @@
     },
     {
       "name": "buildConfiguration",
-      "type": "pickList",
+      "type": "string",
       "label": "Configuration",
       "defaultValue": "debug",
-      "helpMarkDown": "The configuration to build the solution with. Only one configuration is supported at a time.",
+      "helpMarkDown": "The configuration to build the solution with. This may to apply to a Toro 'environment', such as 'Azure.Prod'",
       "required": true,
-      "options": {
-        "debug": "Debug",
-        "release": "Release"
-      },
       "visibleRule": "buildSolution = true"
     },
     {
